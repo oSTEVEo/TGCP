@@ -1,3 +1,2 @@
 # TGCP
-## TeleGram Control Panel
-written on ruby
+TeleGram Control Panel, written on ruby.
